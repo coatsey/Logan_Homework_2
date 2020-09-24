@@ -1,5 +1,5 @@
-.background {
-    height: 400px;
-    width: 100%;
-    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
- }
+.column {
+    column-count: 2;
+    column-gap: 40px;
+    column-rule: 4px double #ff00ff;
+  }
